@@ -2,7 +2,7 @@ import React from "react";
 import Logo from "../assets/logo.png";
 const Navbar = () => {
   return (
-    <div className="fixed flex justify-between top-0 right-0 w-full h-20 z-50 backdrop-blur-xs py-4 sm:py-4">
+    <div className="fixed flex justify-between top-0 right-0 w-full h-20 z-50 backdrop-blur-xs py-4 sm:py-4 text-white">
       <div className="flex">
         <div className="flex mx-4">
           <img src={Logo} alt="" />

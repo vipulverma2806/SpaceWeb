@@ -2,10 +2,10 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="z-50 relative flex h-full justify-center items-center">
+    <div className="z-40 relative flex h-full justify-center items-center">
       <div className="grid grid-cols-1 sm:grid-cols-2">
-        <div className="">
-          <h1 className="relative left-10 text-5xl font-bold">
+        <div className="text-white">
+          <h1 className="relative left-10 text-5xl font-bold ">
             INDIA'S SPACE
             <br /> MISSION
           </h1>
